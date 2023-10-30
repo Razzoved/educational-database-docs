@@ -1,0 +1,13 @@
+# unignore self
+!.gitignore
+
+# unignore base thesis files
+!fithesis4.cls
+!latextmkrc
+!fithesis/
+!fithesis/*
+
+!sources.bib
+!terms.tex
+!thesis.tex
+!thesis.pdf
